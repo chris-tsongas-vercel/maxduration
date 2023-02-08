@@ -1,7 +1,7 @@
 {
   "functions": {
     "pages/:path*": {
-      "maxDuration": 30
+      "maxDuration": 5
     }
   }
 }
